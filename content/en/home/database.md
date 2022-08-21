@@ -14,7 +14,7 @@ subtitle: 'Write-in, Opt-in and Opt-out'
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: database
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,14 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: LaLa Artists
-      tag: Artists
-    - name: LaLa Fans
-      tag: Fans
-    - name: LaLa Managers
-      tag: Fans
-    - name: LaLa Heritage
-      tag: Heritage
+    - name: LaLa for Artists
+      tag: artist
+    - name: LaLa for Fans
+      tag: fans
+    - name: LaLa for Managers
+      tag: manager
+    - name: LaLa for Heritage
+      tag: heritage
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
