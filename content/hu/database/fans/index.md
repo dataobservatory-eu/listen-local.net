@@ -10,7 +10,7 @@ date: '2022-08-19T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Fotó: <a href="https://unsplash.com/@anthonydelanoix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anthony DELANOIX</a> on <a href="https://unsplash.com/s/photos/music-fan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: Fotó - <a href="https://unsplash.com/@anthonydelanoix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anthony DELANOIX</a> on <a href="https://unsplash.com/s/photos/music-fan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   focal_point: Smart
 
