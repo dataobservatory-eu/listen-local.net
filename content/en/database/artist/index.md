@@ -10,14 +10,14 @@ date: '2022-08-19T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by <a href="https://unsplash.com/@rkok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rahul Kukreja</a> on <a href="https://unsplash.com/s/photos/music-band?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/digitalmusicobs
 url_code: ''
 url_pdf: ''
 url_slides: ''
