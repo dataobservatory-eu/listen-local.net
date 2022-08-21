@@ -3,20 +3,69 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+# Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+hu:
+  languageCode: hu
+  contentDir: content/hu
+  title: Listen Local
+  params:
+    description: Listen Local - globálisan látható helyi zenék
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 1
+      - name: Adatbázisok
+        url: '#database'
+        weight: 25
+      - name: Blog
+        url: '#posts'
+        weight: 25
+      - name: Projektek
+        url: '#projects'
+        weight: 30
+      - name: Találkozók
+        url: '#talks'
+        weight: 40
+      - name: Publikációk
+        url: '#publications'
+        weight: 50
+      - name: Kapcsolat
+        url: '#contact'
+        weight: 60
+
+sk:
+  languageCode: sk
+  contentDir: content/sk
+  title: Listen Local
+  params:
+    description: Listen Local 
+  menu:
+    main:
+      - name: O nás
+        url: '#about'
+        weight: 1
+      - name: Databázy
+        url: '#database'
+        weight: 25
+      - name: Blog
+        url: '#posts'
+        weight: 25
+      - name: Projekty
+        url: '#projects'
+        weight: 30
+      - name: Prednášky
+        url: '#talks'
+        weight: 40
+      - name: Publikácie
+        url: '#publications'
+        weight: 50
+      - name: Kontakt
+        url: '#contact'
+        weight: 60

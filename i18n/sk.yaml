@@ -1,0 +1,242 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Prepnúť navigáciu
+
+- id: table_of_contents
+  translation: Obsah
+
+- id: on_this_page
+  translation: Obsah stránky
+
+- id: back_to_top
+  translation: Návrat hore
+
+# General
+
+- id: related
+  translation: Súvisiace
+
+- id: minute_read
+  translation: min. na prečítanie
+
+- id: previous
+  translation: Predchádzajúce
+
+- id: next
+  translation: Ďalšie
+
+- id: figure
+  translation: "Číslica %d:"   # %d: treba ponechať, číslovanie je automatické
+
+- id: edit_page
+  translation: Upraviť túto stránku
+
+# Themes
+
+- id: theme_selector
+  translation: Predvoľby zobrazenia   # napr. v noci má byť tmavé
+
+- id: theme_light
+  translation: Svetlé zobrazenie
+
+- id: theme_dark
+  translation: Tmavé zobrazenie
+
+- id: theme_auto
+  translation: Automatické zobrazenie
+
+# Buttons
+
+- id: btn_preprint
+  translation: Preprint   # treba ponechať ako preprint, je to článok vo vedeckom časopise, ktorý ešte nebol riadne vydaný/recenzovaný
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Citovať
+
+- id: btn_slides
+  translation: Slidy
+
+- id: btn_video
+  translation: Video
+
+- id: btn_code
+  translation: Kód
+
+- id: btn_dataset
+  translation: Súbor dát
+
+- id: btn_project
+  translation: Projekt
+
+- id: btn_poster
+  translation: Plagát   # napr. plagát na akademickej konferencii
+
+- id: btn_source
+  translation: Zdrojový dokument
+
+- id: btn_copy
+  translation: Kopírovať
+
+- id: btn_download
+  translation: Stiahnuť
+
+# About widget
+
+- id: interests
+  translation: Záujmy
+
+- id: education
+  translation: Vzdelanie
+
+- id: user_profile_latest
+  translation: Najnovšie
+
+# Accomplishments widget
+
+- id: see_certificate
+  translation: Zobraziť certifikát
+
+# Experience widget
+
+- id: present
+  translation: Súčasnosť
+
+# Pages widget
+
+- id: more_pages
+  translation: Zobraziť všetky strany
+
+- id: more_posts
+  translation: Zobraziť všetky príspevky
+
+- id: more_talks
+  translation: Zobraziť všetky prednášky   # prednáška je verejná diskusia s autormi alebo organizátormi, je to verejné podujatie
+
+- id: more_publications
+  translation: Zobraziť všetky publikácie
+
+# Contact widget
+
+- id: contact_name
+  translation: Meno
+
+- id: contact_email
+  translation: Email
+
+- id: contact_message
+  translation: Správa
+
+- id: contact_send
+  translation: Odoslať
+
+- id: book_appointment
+  translation: Rezervovať si termín
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Abstrakt
+
+- id: publication
+  translation: Publikácia
+
+- id: publication_type
+  translation: Typ publikácie
+
+- id: date
+  translation: Dátum
+
+- id: last_updated
+  translation: Naposledy aktualizované
+
+- id: event
+  translation: Podujatie
+
+- id: location
+  translation: Miesto vydania/konania
+
+- id: pub_uncat
+  translation: Nezaradené
+
+- id: pub_conf
+  translation: Príspevok na konferenciu
+
+- id: pub_journal
+  translation: Článok v časopise
+
+- id: pub_preprint
+  translation: Preprint   # treba ponechať ako preprint
+
+- id: pub_report
+  translation: Správa
+
+- id: pub_book
+  translation: Kniha
+
+- id: pub_book_section
+  translation: Časť knihy
+
+- id: pub_thesis
+  translation: Diplomová práca
+
+- id: pub_patent
+  translation: Patent
+
+# Project details
+
+- id: open_project_site
+  translation: Prejsť na stránku projektu
+
+# Content types for default archive page titles and search results
+
+- id: posts
+  translation: Príspevky
+
+- id: publications
+  translation: Publikácie
+
+- id: talks
+  translation: Prednášky
+
+- id: projects
+  translation: Projekty
+
+- id: slides
+  translation: Slidy
+
+# Search
+
+- id: search
+  translation: Vyhľadať
+
+- id: search_placeholder
+  translation: Hľadať...
+
+- id: search_results
+  translation: Nájdené výsledky
+
+- id: search_no_results
+  translation: Neboli nenajdené žiadne výsledky
+
+# Error 404
+
+- id: page_not_found
+  translation: Stránka nebola nenájdená
+
+- id: 404_recommendations
+  translation: Možno ste hľadali niečo z tohto?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: Pre skvalitnenie našich služieb využívame súbory cookies.
+
+- id: cookie_dismiss
+  translation: Rozumiem
+
+- id: cookie_learn
+  translation: Zistiť viac
