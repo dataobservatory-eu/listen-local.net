@@ -1,6 +1,6 @@
 ---
-title: LaLa Heritage
-summary: Collect data about the historic repertoire.
+title: LaLa Örökségvédelem
+summary: Adatok gyűjtése a zenei örökségünkről
 tags:
   - Music heritage
 date: '2022-08-19T00:00:00Z'
@@ -9,7 +9,8 @@ date: '2022-08-19T00:00:00Z'
 external_link: ''
 
 image:
-  caption: 
+  caption: Fotó <a href="https://unsplash.com/@clemono?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clem Onojeghuo</a> on <a href="https://unsplash.com/s/photos/old-music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   focal_point: Smart
 
 links:
