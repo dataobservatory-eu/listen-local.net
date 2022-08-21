@@ -53,28 +53,21 @@ subtitle = ""
 ## 👋 Welcome to Listen Local
 
 - 👉 [**Sign-in to LaLa**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://introduction.listen-local.net/)
 - 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
 - 🐦 Twitter: [@DigitalMusicObs](https://twitter.com/DigitalMusicObs) [@antaldaniel](https://twitter.com/antaldaniel)
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
 ## Crowd-funded open-source software
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+To help us develop trustworthy AI applications and bring transparency into the system of music streaming, we ask artists, managers, music heritage professionals and of course music lovers to support our project with crowdsourced information, constructive feedback, and donations or subscriptions to our value added services.
 
 ### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
-## You're looking at a Wowchemy _widget_
-
 {{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [_Blank_ widget](https://wowchemy.com/docs/widget/).
+Listen Local is an open collaboration for artists, fans, managers, developers to provide alternatives to connect local audiences with local artists through locally relevant music recommendations and findings. If you want to get involved with your label, heritage organization or as a curator, see our detailed 📚  {{< staticref "https://introduction.listen-local.net/" "newtab" >}}documentation{{< /staticref >}}.
 
-Backgrounds can be applied to any section. Here, the _background_ option is set give a _color gradient_.
-
-**To remove this section, delete `content/home/demo.md`.**
 {{% /callout %}}
 
 ## Get inspired
 
-[Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
+Insipring post links here.
