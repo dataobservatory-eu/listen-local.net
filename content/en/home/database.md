@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: LaLa for Artists
-      tag: artist
+      tag: artists
     - name: LaLa for Fans
       tag: fans
     - name: LaLa for Managers

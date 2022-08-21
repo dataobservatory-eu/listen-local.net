@@ -18,7 +18,7 @@ organizations:
     url: https://soza.sk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Listen Local is an open collaboration for artists, fans, managers, developers to provide alternatives to connect local audiences with local artists through locally relevant music recommendations and findings.
 
 # Interests to show in About widget
 interests: ""
